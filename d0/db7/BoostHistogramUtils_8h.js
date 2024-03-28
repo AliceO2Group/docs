@@ -1,0 +1,36 @@
+var BoostHistogramUtils_8h =
+[
+    [ "BinCenterView", "d2/d4f/classo2_1_1utils_1_1BinCenterView.html", "d2/d4f/classo2_1_1utils_1_1BinCenterView" ],
+    [ "BinUpperView", "d8/ddf/classo2_1_1utils_1_1BinUpperView.html", "d8/ddf/classo2_1_1utils_1_1BinUpperView" ],
+    [ "BinLowerView", "d1/df5/classo2_1_1utils_1_1BinLowerView.html", "d1/df5/classo2_1_1utils_1_1BinLowerView" ],
+    [ "fitResult", "da/d6b/classo2_1_1utils_1_1fitResult.html", "da/d6b/classo2_1_1utils_1_1fitResult" ],
+    [ "boostHisto1d", "d0/db7/BoostHistogramUtils_8h.html#a657c54bfa1d272113b00751d229fac39", null ],
+    [ "boostHisto1d_VarAxis", "d0/db7/BoostHistogramUtils_8h.html#ad5b0a98e53729dea4a94998def89e816", null ],
+    [ "boostHisto2d", "d0/db7/BoostHistogramUtils_8h.html#aabf5e06f0d24b8b7e082f1bba8c34679", null ],
+    [ "boostHisto2d_VarAxis", "d0/db7/BoostHistogramUtils_8h.html#a1a1b7fdb4c1a8d4ae1b5f095354239b8", null ],
+    [ "FitGausError_t", "d0/db7/BoostHistogramUtils_8h.html#a70f7af813c79351d1c3b683dd1d03c96", [
+      [ "FIT_ERROR_MAX", "d0/db7/BoostHistogramUtils_8h.html#a70f7af813c79351d1c3b683dd1d03c96ae47333a9535b78206d8f3a418348ccc6", null ],
+      [ "FIT_ERROR_MIN", "d0/db7/BoostHistogramUtils_8h.html#a70f7af813c79351d1c3b683dd1d03c96a6fa427c3e28ae43bbe316ff5daf6c993", null ],
+      [ "FIT_ERROR_ENTRIES", "d0/db7/BoostHistogramUtils_8h.html#a70f7af813c79351d1c3b683dd1d03c96a4f0aefdf27edba07e1ee41bd8fb4bf0c", null ],
+      [ "FIT_ERROR_KTOL_MEAN", "d0/db7/BoostHistogramUtils_8h.html#a70f7af813c79351d1c3b683dd1d03c96a1af697e60359202d85d833ead109aacc", null ],
+      [ "FIT_ERROR_KTOL_SIGMA", "d0/db7/BoostHistogramUtils_8h.html#a70f7af813c79351d1c3b683dd1d03c96a7b1b5be8c2152a7f88d7dba8a87d8bb1", null ],
+      [ "FIT_ERROR_KTOL_RMS", "d0/db7/BoostHistogramUtils_8h.html#a70f7af813c79351d1c3b683dd1d03c96a1d60859a167d29b9a86e54567074041a", null ]
+    ] ],
+    [ "boosthistoFromRoot_1D", "d0/db7/BoostHistogramUtils_8h.html#a501d5cd6d38ee3aba627d652e3afd6e8", null ],
+    [ "boostHistoFromRoot_2D", "d0/db7/BoostHistogramUtils_8h.html#ab935e404394becccb983135a9399f863", null ],
+    [ "createErrorMessageFitGaus", "d0/db7/BoostHistogramUtils_8h.html#acb76108fceacaabaa363adb9d7a15328", null ],
+    [ "fitBoostHistoWithGaus", "d0/db7/BoostHistogramUtils_8h.html#acde7cb1137101c6d22516db38709920f", null ],
+    [ "fitGaus", "d0/db7/BoostHistogramUtils_8h.html#a68fdc7eef9a96b39cdfa6f94842e64ff", null ],
+    [ "getMeanBoost1D", "d0/db7/BoostHistogramUtils_8h.html#ae24f0ecf0a7a653841619a24bce87d1e", null ],
+    [ "getVarianceBoost1D", "d0/db7/BoostHistogramUtils_8h.html#ae8274f3b6af16cc67d1f932cdf73fa41", null ],
+    [ "operator+", "d0/db7/BoostHistogramUtils_8h.html#adc454d99213e1169016dabf5a985a557", null ],
+    [ "operator+", "d0/db7/BoostHistogramUtils_8h.html#aae67a625b1a4dbc92e7856b9f9a10d6a", null ],
+    [ "operator+", "d0/db7/BoostHistogramUtils_8h.html#a5a28168cd5a2bd84dcca9d2a25f6c73f", null ],
+    [ "ProjectBoostHistoX", "d0/db7/BoostHistogramUtils_8h.html#abc27d0f522d588aa489d9131ea8b5db9", null ],
+    [ "ProjectBoostHistoXFast", "d0/db7/BoostHistogramUtils_8h.html#a34a7997d7f0a28e9c7ea4b5106f74d37", null ],
+    [ "ReduceBoostHistoFastSlice", "d0/db7/BoostHistogramUtils_8h.html#aca32f999f66fc08f94ecabb4d4f0c8b2", null ],
+    [ "ReduceBoostHistoFastSlice1D", "d0/db7/BoostHistogramUtils_8h.html#ae150a991f534f2ec1ece737177854d12", null ],
+    [ "ReduceBoostHistoFastSliceByValue", "d0/db7/BoostHistogramUtils_8h.html#a75bae8eaeb5bb6f0d9d853752d9a890d", null ],
+    [ "TH1FFromBoost", "d0/db7/BoostHistogramUtils_8h.html#a72b44d17e09b0fff2158b8f5439222fa", null ],
+    [ "TH2FFromBoost", "d0/db7/BoostHistogramUtils_8h.html#a1344a4a20e9d678962d24b1da11a31bf", null ]
+];

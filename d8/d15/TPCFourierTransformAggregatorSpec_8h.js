@@ -1,0 +1,5 @@
+var TPCFourierTransformAggregatorSpec_8h =
+[
+    [ "TPCFourierTransformAggregatorSpec", "d4/da6/classo2_1_1tpc_1_1TPCFourierTransformAggregatorSpec.html", "d4/da6/classo2_1_1tpc_1_1TPCFourierTransformAggregatorSpec" ],
+    [ "getTPCFourierTransformAggregatorSpec", "d8/d15/TPCFourierTransformAggregatorSpec_8h.html#a6f5e532168cead041cd4275ec7b112ff", null ]
+];
