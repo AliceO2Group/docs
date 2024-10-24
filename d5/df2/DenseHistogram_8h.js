@@ -1,0 +1,25 @@
+var DenseHistogram_8h =
+[
+    [ "DenseHistogram< source_T, std::enable_if_t< sizeof(source_T)==4 > >", "dd/d3b/classo2_1_1rans_1_1DenseHistogram_3_01source__T_00_01std_1_1enable__if__t_3_01sizeof_07source__T_08_0a_0a4_01_4_01_4.html", "dd/d3b/classo2_1_1rans_1_1DenseHistogram_3_01source__T_00_01std_1_1enable__if__t_3_01sizeof_07source__T_08_0a_0a4_01_4_01_4" ],
+    [ "countNUsedAlphabetSymbols", "d5/df2/DenseHistogram_8h.html#abc7e63594275d057c19861beea22ecb2", null ],
+    [ "for", "d5/df2/DenseHistogram_8h.html#a6ad18034bad8d0c753ca4f25467a3bb6", null ],
+    [ "for", "d5/df2/DenseHistogram_8h.html#a44ce013ecf6103cdb168f0c96f42a26d", null ],
+    [ "for", "d5/df2/DenseHistogram_8h.html#a7a84d5f93d14f6e7fbae2f651828d1f8", null ],
+    [ "getOffset", "d5/df2/DenseHistogram_8h.html#aba4749bc4acd04c3c729f52d89d16d3c", null ],
+    [ "if", "d5/df2/DenseHistogram_8h.html#aaa66a187495cf0af8e021714687246b1", null ],
+    [ "if", "d5/df2/DenseHistogram_8h.html#a74e1746dc402bdb47f3cd8ef5281f54d", null ],
+    [ "if", "d5/df2/DenseHistogram_8h.html#a359ca3e8c2ae84c537ef1e928c324fd3", null ],
+    [ "if", "d5/df2/DenseHistogram_8h.html#aac9e3db56292932f9180371d96951ac4", null ],
+    [ "minmax", "d5/df2/DenseHistogram_8h.html#a7d58c9f52eaacc1359a02e1128631c2e", null ],
+    [ "minmax", "d5/df2/DenseHistogram_8h.html#a47ec7af141c6dabc299abaadb4ef6153", null ],
+    [ "minmaxImpl", "d5/df2/DenseHistogram_8h.html#ac794884c272b339afabc3ba8be538a9f", null ],
+    [ "size", "d5/df2/DenseHistogram_8h.html#a244d51ea6cc19cf02f7ce28d0f53a368", null ],
+    [ "while", "d5/df2/DenseHistogram_8h.html#ad9273ab0ea2a92c460c3593f43c40317", null ],
+    [ "addedHistogramView", "d5/df2/DenseHistogram_8h.html#a0a96c037a33967d9ab1c847adf52e30f", null ],
+    [ "addQWord", "d5/df2/DenseHistogram_8h.html#a39d09cfeeaa3981b13f7bd0a6785df69", null ],
+    [ "else", "d5/df2/DenseHistogram_8h.html#a04e3532941d8ae61e511fbb5041c6614", null ],
+    [ "idx", "d5/df2/DenseHistogram_8h.html#a0e54edf21838017bfcab555907129b4d", null ],
+    [ "isInvalidFrequencyRange", "d5/df2/DenseHistogram_8h.html#afe793f310c97cc9edaa909fa8d9100c5", null ],
+    [ "this", "d5/df2/DenseHistogram_8h.html#a7a4c290f4b804051562c285e9da71179", null ],
+    [ "thisHistogramView", "d5/df2/DenseHistogram_8h.html#a12b3eea3a70b268654b740cbeeb5aa1f", null ]
+];
