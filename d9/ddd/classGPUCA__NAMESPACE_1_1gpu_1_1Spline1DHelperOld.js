@@ -1,0 +1,26 @@
+var classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld =
+[
+    [ "DataPoint", "dd/d8c/structGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld_1_1DataPoint.html", "dd/d8c/structGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld_1_1DataPoint" ],
+    [ "Spline1DHelperOld", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a2fd4100cab14a96e6146c606c8214255", null ],
+    [ "Spline1DHelperOld", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a5d41f320268fab4e0522c8b14e3598dd", null ],
+    [ "~Spline1DHelperOld", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#abd7fa249beba5c1e48621afc05c1906d", null ],
+    [ "approximateDataPoints", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a847f867053170993fe75b6535e37e7c3", null ],
+    [ "approximateDerivatives", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#ad33193dd4115a5c24d7f74b2d3b6748b", null ],
+    [ "approximateFunction", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#ad0fcd836237ab5b0ac5a8a22a65d889f", null ],
+    [ "approximateFunction", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a27954028aa216ace372ec109962262f7", null ],
+    [ "approximateFunction", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a32f17d139ce65892445773e43c12073f", null ],
+    [ "approximateFunctionClassic", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a9a8e41d5eb272d2d20a5323c66af47b6", null ],
+    [ "approximateFunctionGradually", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a463161a236751b5dbf73a7837dc8107b", null ],
+    [ "approximateFunctionGradually", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a343a131945862cecb920ad1645ba8e01", null ],
+    [ "approximateFunctionGradually", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a8c666d850a97281e285dc7bd255c9158", null ],
+    [ "bandGauss", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a23dde6cb2e5c23c543305230cab349ca", null ],
+    [ "copySfromDataPoints", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a906dabaad5c4e26619f807e2d2437bcd", null ],
+    [ "getDataPoint", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#ae931db6176af7a332e0f7b7fda7edbfc", null ],
+    [ "getKnotDataPoint", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a61518c74dc1ee99473f6a4e2f909b5bd", null ],
+    [ "getLastError", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a8b21e993831e5d74e1e19185a8fcfa7a", null ],
+    [ "getNumberOfDataPoints", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a23cf09eaf8e8c324766aef2b9a3a9431", null ],
+    [ "getSpline", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a33c8b6c1d6f71d5adbf421dc9860f131", null ],
+    [ "operator=", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#af4e696d98b4caf9a1d1adbe50b7144cd", null ],
+    [ "setSpline", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#a5020aa370232b30e60bc205395a10bfe", null ],
+    [ "setSpline", "d9/ddd/classGPUCA__NAMESPACE_1_1gpu_1_1Spline1DHelperOld.html#ac16b5a7a4f374c778289b6f736913612", null ]
+];
