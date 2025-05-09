@@ -1,0 +1,28 @@
+var classo2_1_1tpc_1_1qc_1_1Clusters =
+[
+    [ "Clusters", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a6003d24771548aeae07e83864e601e4c", null ],
+    [ "Clusters", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a3a1b44b67c58b4a40758866de48ed539", null ],
+    [ "analyse", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a4dcc4705fe55acd9c6f772f68e1b0d6d", null ],
+    [ "denormalize", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a8a8228cc96b6567ca048589dd2a9bf16", null ],
+    [ "dumpToFile", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#af0ceec154d6e21406957c44e4f83d6aa", null ],
+    [ "endTF", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#ae71f27d54b01f4e5654abfce7effb4e5", null ],
+    [ "fillADCValue", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a7c5d44262efd5e3bdba507ebbe0c3dc3", null ],
+    [ "getNClusters", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a9bc7495dfcc06a93fc253415468dcda9", null ],
+    [ "getNClusters", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a0297ee6d3427d02ded2f51864e2f7cfc", null ],
+    [ "getOccupancy", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a182f757027943ff46d99ff0579a41b37", null ],
+    [ "getProcessedTFs", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a5f26042c4a6a19da73da0f609e781eee", null ],
+    [ "getQMax", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a2f82e1510c97d5f34607dcd095299bc7", null ],
+    [ "getQMax", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#abb40b2a15131f7ce8c1437013ce6353b", null ],
+    [ "getQTot", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a5025a82e8d423d668c90ceead3a7b14b", null ],
+    [ "getQTot", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#aa27f04727dd7a449f8f76b078de0e637", null ],
+    [ "getSigmaPad", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#afe6604f28cc29dec0418e59e67273af1", null ],
+    [ "getSigmaPad", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#ad5272fc4fdceeb152cb831834a63f090", null ],
+    [ "getSigmaTime", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#afbc26239966de9fe5c6c762823cb542b", null ],
+    [ "getSigmaTime", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#ac3c12707c0e4e0ebd1ca4e9ec82a209e", null ],
+    [ "getTimeBin", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#ac513684a1b44540e51a24df802b8e38c", null ],
+    [ "getTimeBin", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#a387b13ca42192927de35e39f648fd648", null ],
+    [ "merge", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#aa189a9df91c015e0e336ce8bbdc7ec96", null ],
+    [ "normalize", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#ae0065b754888a6650023185b20260c36", null ],
+    [ "processCluster", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#aab3131c162a339500c12bf89edf334b5", null ],
+    [ "reset", "d8/d40/classo2_1_1tpc_1_1qc_1_1Clusters.html#ab985f850717ab2594ddfa56b829562f5", null ]
+];
