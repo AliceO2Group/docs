@@ -1,0 +1,15 @@
+var MemoryResources_8h =
+[
+    [ "o2::pmr::MessageResource", "da/d1c/classo2_1_1pmr_1_1MessageResource.html", "da/d1c/classo2_1_1pmr_1_1MessageResource" ],
+    [ "o2::pmr::SpectatorMemoryResource< BufferType >", "da/d6f/classo2_1_1pmr_1_1SpectatorMemoryResource.html", "da/d6f/classo2_1_1pmr_1_1SpectatorMemoryResource" ],
+    [ "o2::pmr::SpectatorAllocator< T >", "d8/dfe/classo2_1_1pmr_1_1SpectatorAllocator.html", "d8/dfe/classo2_1_1pmr_1_1SpectatorAllocator" ],
+    [ "o2::pmr::OwningMessageSpectatorAllocator< T >", "d0/de1/classo2_1_1pmr_1_1OwningMessageSpectatorAllocator.html", "d0/de1/classo2_1_1pmr_1_1OwningMessageSpectatorAllocator" ],
+    [ "o2::pmr::NoConstructAllocator< T >", "d4/df4/classo2_1_1pmr_1_1NoConstructAllocator.html", "d4/df4/classo2_1_1pmr_1_1NoConstructAllocator" ],
+    [ "BytePmrAllocator", "dc/d03/MemoryResources_8h.html#a1ff1b6b61540b8765ebac8a55be1d19c", null ],
+    [ "ByteSpectatorAllocator", "dc/d03/MemoryResources_8h.html#a086443b66ab4159884804f08f415a69f", null ],
+    [ "ChannelResource", "dc/d03/MemoryResources_8h.html#aa043766d0012b1172a6a178b1fdee19b", null ],
+    [ "FairMQMemoryResource", "dc/d03/MemoryResources_8h.html#a811eef8a4016613b7dd42c8dcfc1aa72", null ],
+    [ "vector", "dc/d03/MemoryResources_8h.html#a1ac584ed255eba3c6770521e60dedf0b", null ],
+    [ "adoptVector", "dc/d03/MemoryResources_8h.html#a6691c69fc4a262f65cfc847248292ba1", null ],
+    [ "getMessage", "dc/d03/MemoryResources_8h.html#a13a8dfc5e8bec83c0163540cc82e448d", null ]
+];
