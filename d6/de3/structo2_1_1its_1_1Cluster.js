@@ -1,0 +1,26 @@
+var structo2_1_1its_1_1Cluster =
+[
+    [ "ClassDefNV", "d6/de3/structo2_1_1its_1_1Cluster.html#a4135183eb935087da1ff6f1cbb9934c5", null ],
+    [ "GPUhd", "d6/de3/structo2_1_1its_1_1Cluster.html#ac536c5bfd616e63aac5fa7cef83b6e4b", null ],
+    [ "GPUhd", "d6/de3/structo2_1_1its_1_1Cluster.html#ae00a1c7eabd17d2948bfa8cba8591a08", null ],
+    [ "GPUhd", "d6/de3/structo2_1_1its_1_1Cluster.html#ab2c05f1047813dbfcbebe032230a84f1", null ],
+    [ "GPUhd", "d6/de3/structo2_1_1its_1_1Cluster.html#ace45eb763e4430a411ac701263559830", null ],
+    [ "GPUhdDefault", "d6/de3/structo2_1_1its_1_1Cluster.html#a75b057c8cce59d5f897d71b83a48466c", null ],
+    [ "GPUhdDefault", "d6/de3/structo2_1_1its_1_1Cluster.html#a75b057c8cce59d5f897d71b83a48466c", null ],
+    [ "GPUhdDefault", "d6/de3/structo2_1_1its_1_1Cluster.html#a2250bbfde06312a6d7062553ae6fc43d", null ],
+    [ "GPUhdDefault", "d6/de3/structo2_1_1its_1_1Cluster.html#a7507bbb420b8db5a21c35ada26af2a36", null ],
+    [ "GPUhdDefault", "d6/de3/structo2_1_1its_1_1Cluster.html#afc1884f824c12ad39d610d2c1204954d", null ],
+    [ "GPUhdDefault", "d6/de3/structo2_1_1its_1_1Cluster.html#ad8e67a570829031e4d6c0c5262c346b7", null ],
+    [ "clusterId", "d6/de3/structo2_1_1its_1_1Cluster.html#a182faac308002c2641582a063a77b7a2", null ],
+    [ "idx", "d6/de3/structo2_1_1its_1_1Cluster.html#a4839529f6202f3ba6916bc90f7e9d200", null ],
+    [ "indexTableBinIndex", "d6/de3/structo2_1_1its_1_1Cluster.html#a6a8367303cb1b95ffe85558a99c12e00", null ],
+    [ "phi", "d6/de3/structo2_1_1its_1_1Cluster.html#ae8e3e8d7fe22a562f91523da8960eb4f", null ],
+    [ "radius", "d6/de3/structo2_1_1its_1_1Cluster.html#a1d601e926d396716306d4ad5f8df0e9f", null ],
+    [ "utils", "d6/de3/structo2_1_1its_1_1Cluster.html#a025bac791f782e4b391145efe33fcb1f", null ],
+    [ "utils", "d6/de3/structo2_1_1its_1_1Cluster.html#a3967bb11efb4d35201c77dbb6904a3a5", null ],
+    [ "xCoordinate", "d6/de3/structo2_1_1its_1_1Cluster.html#af3a46686606bfe3b76c09ec4f959d615", null ],
+    [ "y", "d6/de3/structo2_1_1its_1_1Cluster.html#a8ad9de78887f3855b0d8b097d4ecfc63", null ],
+    [ "yCoordinate", "d6/de3/structo2_1_1its_1_1Cluster.html#a16b93ed36deab0ba34fa38fefce07acf", null ],
+    [ "z", "d6/de3/structo2_1_1its_1_1Cluster.html#ada0dfd1e7d1010ff27e101871968b6d1", null ],
+    [ "zCoordinate", "d6/de3/structo2_1_1its_1_1Cluster.html#a2b7ca97f37758b1af66117f25aaf3315", null ]
+];
