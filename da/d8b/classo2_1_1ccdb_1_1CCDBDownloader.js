@@ -1,0 +1,27 @@
+var classo2_1_1ccdb_1_1CCDBDownloader =
+[
+    [ "CCDBDownloader", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#ae51e9669063b5c9cbd60c4d17a9a7bd0", null ],
+    [ "~CCDBDownloader", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a4e22b0a5d5a42845f8bfd650d2551c99", null ],
+    [ "asynchSchedule", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a2f0eb32fb0d1a8c18a2eda895897c60e", null ],
+    [ "batchBlockingPerform", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a8a7a79077e1ba424b89b8e65de8d20a7", null ],
+    [ "perform", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a2216d209ba61a7b7741248b1da56ca5e", null ],
+    [ "prepareLogMessage", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#ac4360f61cab5276c78963b9eb23ce6c1", null ],
+    [ "runLoop", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a64d22f3370303210caf9d356a2790bca", null ],
+    [ "setConnectionTimeoutTime", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a9919e0d6ccb6a7ffa3842a627deb3e46", null ],
+    [ "setHappyEyeballsHeadstartTime", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#ac143fb53b37950ba7fd5f5d4fdd15924", null ],
+    [ "setKeepaliveTimeoutTime", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a459f6bff816d54db2c18fe7ccf521440", null ],
+    [ "setMaxParallelConnections", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#ad87c182bd95dc217f7b3277650a64051", null ],
+    [ "setOfflineTimeoutSettings", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a1991cd21502a837908571bbf37f8d393", null ],
+    [ "setOnlineTimeoutSettings", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#ae7bdc877bdb75c4c65b5a9130b3ef72b", null ],
+    [ "setRequestTimeoutTime", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a130f9bedb8d96c37925d4f3c8cfd7736", null ],
+    [ "trimHostUrl", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a36b052a1b53612783d393ebb90f60fdd", null ],
+    [ "mConnectionTimeoutMS", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a6c895236e887b222653ee6aaef2a5c03", null ],
+    [ "mExternalLoop", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a30607061b93c05b8d90999317a25f14e", null ],
+    [ "mHandleMap", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#ac48b4695c4b7be7150b78a975b9c6766", null ],
+    [ "mHappyEyeballsHeadstartMS", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#acd0c702ca9e38e0def36cf5c650852cd", null ],
+    [ "mKeepaliveTimeoutMS", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a59bf8d6962b67e2c200f26deade49e89", null ],
+    [ "mMaxHandlesInUse", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a782c1fb1371d34cffc6d6112c5182e5a", null ],
+    [ "mRequestTimeoutMS", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#a6b37e4440b403a5c3497a15c3f55116f", null ],
+    [ "mSocketTimerMap", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#ac56716c6ae4d847ac2cb9b35d47d4d54", null ],
+    [ "mUVLoop", "da/d8b/classo2_1_1ccdb_1_1CCDBDownloader.html#ad8fcdb907c0599a8c0ce5db48873ef6a", null ]
+];
