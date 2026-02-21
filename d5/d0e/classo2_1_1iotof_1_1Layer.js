@@ -1,0 +1,27 @@
+var classo2_1_1iotof_1_1Layer =
+[
+    [ "Layer", "d5/d0e/classo2_1_1iotof_1_1Layer.html#ab58fc883449c04d2a3b1e67ae12b2e80", null ],
+    [ "Layer", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a0b9d97502a77dddd1285e7673c18f2ba", null ],
+    [ "~Layer", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a306891c0be3908f129ccdf6100614287", null ],
+    [ "createLayer", "d5/d0e/classo2_1_1iotof_1_1Layer.html#ad398ef9470312cc0046ba67111f827c0", null ],
+    [ "getChipThickness", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a8cc9498dc561acf74ae5b0146cdd1975", null ],
+    [ "getInnerRadius", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a5fd1a50b183af5e024c673a7332884be", null ],
+    [ "getLayout", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a096f2eeac379543b8ccb1e1d27730be0", null ],
+    [ "getName", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a0663dea97eb7b1b6eea7b61bf6b17413", null ],
+    [ "getOuterRadius", "d5/d0e/classo2_1_1iotof_1_1Layer.html#af1aafbc45ffbf88d6e3b19ad2c2f5ae5", null ],
+    [ "getSegments", "d5/d0e/classo2_1_1iotof_1_1Layer.html#ad805e8940bc3e9871c4eae2a64ed64e3", null ],
+    [ "getx2X0", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a8cbe5b7bc3d1b122ec405edf4c6a275e", null ],
+    [ "getZLength", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a5e5b78cee9c7bc1bf28b5ca6b1c6bb8b", null ],
+    [ "getZOffset", "d5/d0e/classo2_1_1iotof_1_1Layer.html#ad781170713e7ee2cc2ea351438bf44ae", null ],
+    [ "mChipThickness", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a6ebbf1b6260d29015cdbfbccd4eaa7b7", null ],
+    [ "mInnerRadius", "d5/d0e/classo2_1_1iotof_1_1Layer.html#aa272cc67b67034b65d0b4d3cbf60ceb3", null ],
+    [ "mLayerName", "d5/d0e/classo2_1_1iotof_1_1Layer.html#aa2306e8584213d6f000c681d2c7b6d87", null ],
+    [ "mLayout", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a2fc1ab2f24be34922820b236a70fbc47", null ],
+    [ "mOuterRadius", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a126cb9a2d2135aa118a57ebab2845140", null ],
+    [ "mSegments", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a644602c437ad615477bbff6d6be6d160", null ],
+    [ "mSensorsPerSegment", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a3692697c801631348fc059d7b0d16ddd", null ],
+    [ "mTiltAngle", "d5/d0e/classo2_1_1iotof_1_1Layer.html#ac8e0d03fadc879867c60b7523f04284a", null ],
+    [ "mX2X0", "d5/d0e/classo2_1_1iotof_1_1Layer.html#af10328f9d0220069af13f1ecdda31ef5", null ],
+    [ "mZLength", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a363bbb7951f27be648114a081305d21c", null ],
+    [ "mZOffset", "d5/d0e/classo2_1_1iotof_1_1Layer.html#a00a8d6aea99f5195ef4012516e9f8a69", null ]
+];

@@ -1,0 +1,19 @@
+var SimTraits_8h =
+[
+    [ "o2::detectors::SimTraits", "d9/db1/classo2_1_1detectors_1_1SimTraits.html", "d9/db1/classo2_1_1detectors_1_1SimTraits" ],
+    [ "o2::detectors::DetIDToHitTypes< N >", "dc/d25/structo2_1_1detectors_1_1DetIDToHitTypes.html", "dc/d25/structo2_1_1detectors_1_1DetIDToHitTypes" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::TRD >", "d1/d11/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1TRD_01_4.html", "d1/d11/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1TRD_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::ITS >", "d1/d77/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1ITS_01_4.html", "d1/d77/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1ITS_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::MFT >", "db/d36/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1MFT_01_4.html", "db/d36/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1MFT_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::TOF >", "d1/d2e/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1TOF_01_4.html", "d1/d2e/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1TOF_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::EMC >", "d7/de0/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1EMC_01_4.html", "d7/de0/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1EMC_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::PHS >", "d2/dd9/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1PHS_01_4.html", "d2/dd9/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1PHS_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::FT0 >", "dc/d3c/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1FT0_01_4.html", "dc/d3c/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1FT0_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::FV0 >", "d8/d50/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1FV0_01_4.html", "d8/d50/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1FV0_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::MCH >", "d8/d41/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1MCH_01_4.html", "d8/d41/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1MCH_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::MID >", "dd/d3e/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1MID_01_4.html", "dd/d3e/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1MID_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::ZDC >", "de/da4/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1ZDC_01_4.html", "de/da4/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1ZDC_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::HMP >", "de/d56/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1HMP_01_4.html", "de/d56/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1HMP_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::TPC >", "df/dba/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1TPC_01_4.html", "df/dba/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1TPC_01_4" ],
+    [ "o2::detectors::DetIDToHitTypes< o2::detectors::DetID::FOC >", "da/d61/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1FOC_01_4.html", "da/d61/structo2_1_1detectors_1_1DetIDToHitTypes_3_01o2_1_1detectors_1_1DetID_1_1FOC_01_4" ]
+];

@@ -1,0 +1,4 @@
+var structo2_1_1framework_1_1root__serializer_3_01T_00_01std_1_1enable__if__t_3_01has__root__diction0842a105d27ec07641185ed245cff43a =
+[
+    [ "serializer", "dd/d3f/structo2_1_1framework_1_1root__serializer_3_01T_00_01std_1_1enable__if__t_3_01has__root__diction0842a105d27ec07641185ed245cff43a.html#aca651511b6b14f1ebf12c70947a63040", null ]
+];

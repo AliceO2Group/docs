@@ -1,0 +1,27 @@
+var classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask =
+[
+    [ "ITSMFTDPLDigitizerTask", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#ab4f20a556c838851f34597bf70217a74", null ],
+    [ "finaliseCCDB", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a7bf403edabec4c37fc2a76ac5bb0073d", null ],
+    [ "init", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a787d96aeeb3aeb02a73686b3590f0d12", null ],
+    [ "initDigitizerTask", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a85b0ae3cd9fc2922c4b9757ca13ea17e", null ],
+    [ "run", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#af9eda93a562405b13b2eacf0d335e88b", null ],
+    [ "updateTimeDependentParams", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a47a8178a3c2562336548944716d1fd71", null ],
+    [ "mDeadMap", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a133dc7f3318e33aba3c9bfc386fe5196", null ],
+    [ "mDigitizer", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a2b599f5cc070893916e8bd7fae820606", null ],
+    [ "mDigits", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#ab864d19597e8f7b2fce02aad5cace4c2", null ],
+    [ "mDisableQED", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a5b48f2846467aeee3ae80ff1c8d5c3ba", null ],
+    [ "mFinished", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#af7994f70df59ddc61c5caaa5b791e0f6", null ],
+    [ "mFirstOrbitTF", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#ae7881366337a0c86fa5e2640cf244672", null ],
+    [ "mFixMC2ROF", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a16642c89a492330236d8196ab854f1f3", null ],
+    [ "mHits", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a9bfb9c10f665384065bae9f344ff9287", null ],
+    [ "mHitsP", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a1e8b05efe86137a42a5254abcb2fd428", null ],
+    [ "mLabels", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a70ce0987e745950243053e9b1eeecf66", null ],
+    [ "mLabelsAccum", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#aabaf2c1baa88719b22341ada1d5cd949", null ],
+    [ "mMC2ROFRecordsAccum", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a7652fa0c240f3fe6274d39e020a91e4a", null ],
+    [ "mROFRecords", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a9a23e819d7b7867b7070211a7b84d258", null ],
+    [ "mROFRecordsAccum", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a71a0eda86591d8636b054c8cbda36da1", null ],
+    [ "mROMode", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a636077d03ef2122fbfc566d7588f40da", null ],
+    [ "mSimChains", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#ae1c4694c9b497876c143ce00b0049a4e", null ],
+    [ "mTimeDeadMapUpdated", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a39f4ae4c4d9a9f4a7b374e2f3629ca9c", null ],
+    [ "mWithMCTruth", "dd/d3a/classo2_1_1itsmft_1_1ITSMFTDPLDigitizerTask.html#a13acd9e4a29d6616f8190ab5b439b80e", null ]
+];
