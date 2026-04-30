@@ -1,0 +1,28 @@
+var classo2_1_1its_1_1VertexerTraits =
+[
+    [ "VertexerTraits", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#aa3e50ccd4751626280b734f606cb4bac", null ],
+    [ "~VertexerTraits", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a29e55b7477bf93c6d694098a1cae39df", null ],
+    [ "addTruthSeedingVertices", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#ae4fa5a507f9b8dfacf7c383dd8b918e2", null ],
+    [ "adoptTimeFrame", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#ad79c90837d0b943cb04d67f38b28d3d7", null ],
+    [ "computeTrackletMatching", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a94ab6d8dac670eb9be81e171ccc6023f", null ],
+    [ "computeTracklets", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a62d8fbdd19732d30f6286b5f2da07ae1", null ],
+    [ "computeVertices", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a7071c643061aa4a325f1bd24429aae06", null ],
+    [ "getName", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#ac13fcdf63f5af7aec576d0ed8d5f716a", null ],
+    [ "getNThreads", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a29c274978a81925c3eb078a2deae70fb", null ],
+    [ "getVertexingParameters", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a7a019f0638fcd8041070dc98676a5ccb", null ],
+    [ "getVertexingParameters", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a068a113db6b814d029f6ec2c385c24ca", null ],
+    [ "GPUhd", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#af51812fd2dda7ca429547185bd344cd3", null ],
+    [ "GPUhd", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a69d2b0f2b93368efe4ab181f3c31690c", null ],
+    [ "initialise", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a08d66443ba99085e40f9027776a4b716", null ],
+    [ "isGPU", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#ac13bafd23a2fe1e510ecfc02ac09aa7d", null ],
+    [ "setMemoryPool", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#ac9071e2c9dfbca8d969d121de9d4465d", null ],
+    [ "setNThreads", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a040da99324da6091616b9b87c30e7c5a", null ],
+    [ "setVertexingParameters", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a84a5f697292fb8837ed778275cacfc2f", null ],
+    [ "updateVertexingParameters", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a866350947b4b48c175bc0efe582ba754", null ],
+    [ "usesMemoryPool", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#aa929c71f69b7d2903471fa862331b8d6", null ],
+    [ "deltaPhi", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a0c206eef37157b5e19ff377e34f98962", null ],
+    [ "deltaPhi", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a8e649e5fd71a9c0fea1e75f8987e795e", null ],
+    [ "mIndexTableUtils", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a4eabd3e53d0fb03622934ca01a61218d", null ],
+    [ "mTimeFrame", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a007d9f757f8aaa270295736bc12aadf3", null ],
+    [ "mVrtParams", "de/d1a/classo2_1_1its_1_1VertexerTraits.html#a83dbb485d64deff1d94a2bd0de81facd", null ]
+];
