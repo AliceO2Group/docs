@@ -1,0 +1,25 @@
+var classo2_1_1iotof_1_1GeometryTGeo =
+[
+    [ "GeometryTGeo", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a81a886f4c1cd66dce4bc9cd473a9bc82", null ],
+    [ "Build", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#ab4b57b257fa4257097a491ea665096db", null ],
+    [ "extractMatrixSensor", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#ada84077bc3fffa49498f7fd71e2bb010", null ],
+    [ "extractNumberOfChipsBTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#ae5c4fe8fb175979c526c2209996caa32", null ],
+    [ "extractNumberOfChipsFTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a7a1831dfe7d40b53eb8b841278471db3", null ],
+    [ "extractNumberOfChipsPerModuleIOTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#ab29c2d848f3c333f7782ad318cc25261", null ],
+    [ "extractNumberOfModulesIOTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a6870481684a735abe7450b130296925d", null ],
+    [ "extractNumberOfStavesIOTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#abf7e0d6bfc2c205fcd78946184d9a4a6", null ],
+    [ "fillMatrixCache", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a4d771570304e711152a174d20458e5c0", null ],
+    [ "getIOTOFChipId", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a1cb11d68e8cd89abe93a8db149dfa40f", null ],
+    [ "getIOTOFChipIndex", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#ae3661ef96b9ddeb4d9881e5c80ffde54", null ],
+    [ "getIOTOFFirstChipIndex", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a7f473baf4a59853b968f3d7427ce2ab1", null ],
+    [ "getIOTOFLayer", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a7ca99dbefe00abdd947b54491c7a63dc", null ],
+    [ "getMatrixPath", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a06b44ca4a9f3273fd2d0a30ded1b3848", null ],
+    [ "mLastChipIndex", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a2703d1c7c7b407bfa0594d92a685752d", null ],
+    [ "mNumberOfChipsBTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a5d65418df6d6855ab0b2026b5a38cc0c", null ],
+    [ "mNumberOfChipsFTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#aa71582161661574e9b179503e72e36cb", null ],
+    [ "mNumberOfChipsIOTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#af919e96cbbd0d7db054befd8607ba536", null ],
+    [ "mNumberOfChipsPerModuleIOTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a23c9560c2cf7dbeb64d3adfb8064fd74", null ],
+    [ "mNumberOfChipsPerStaveIOTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#aa57882d6b14b87e5d196c1bfb9afa316", null ],
+    [ "mNumberOfModulesIOTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#a1d9704d4d42dd9573cc45225e95f14dc", null ],
+    [ "mNumberOfStavesIOTOF", "dc/d6e/classo2_1_1iotof_1_1GeometryTGeo.html#aa852ed89fee3161396088e59fa9d136d", null ]
+];
