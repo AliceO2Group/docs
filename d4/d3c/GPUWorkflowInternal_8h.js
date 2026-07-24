@@ -1,0 +1,7 @@
+var GPUWorkflowInternal_8h =
+[
+    [ "o2::gpu::gpurecoworkflow_internals::GPURecoWorkflowSpec_TPCZSBuffers", "d2/de9/structo2_1_1gpu_1_1gpurecoworkflow__internals_1_1GPURecoWorkflowSpec__TPCZSBuffers.html", "d2/de9/structo2_1_1gpu_1_1gpurecoworkflow__internals_1_1GPURecoWorkflowSpec__TPCZSBuffers" ],
+    [ "o2::gpu::gpurecoworkflow_internals::GPURecoWorkflow_QueueObject", "d1/d84/structo2_1_1gpu_1_1gpurecoworkflow__internals_1_1GPURecoWorkflow__QueueObject.html", "d1/d84/structo2_1_1gpu_1_1gpurecoworkflow__internals_1_1GPURecoWorkflow__QueueObject" ],
+    [ "o2::gpu::gpurecoworkflow_internals::GPURecoWorkflowSpec_PipelineInternals", "d0/d70/structo2_1_1gpu_1_1gpurecoworkflow__internals_1_1GPURecoWorkflowSpec__PipelineInternals.html", "d0/d70/structo2_1_1gpu_1_1gpurecoworkflow__internals_1_1GPURecoWorkflowSpec__PipelineInternals" ],
+    [ "o2::gpu::gpurecoworkflow_internals::GPURecoWorkflowSpec_PipelineInternals::pipelineWorkerStruct", "de/d34/structo2_1_1gpu_1_1gpurecoworkflow__internals_1_1GPURecoWorkflowSpec__PipelineInternals_1_1pipelineWorkerStruct.html", "de/d34/structo2_1_1gpu_1_1gpurecoworkflow__internals_1_1GPURecoWorkflowSpec__PipelineInternals_1_1pipelineWorkerStruct" ]
+];

@@ -1,0 +1,28 @@
+var classo2_1_1its3_1_1ITS3DigitReader =
+[
+    [ "ITS3DigitReader", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#ac23063e2b685a63fc6c8b79641330b85", null ],
+    [ "~ITS3DigitReader", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a96e77f428352dec1a44e3f8dbc45ff78", null ],
+    [ "connectTree", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#add3f94408c47ffd9758820caa2a6ec17", null ],
+    [ "getBranchName", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#ab1d0d198d7a3aeb0c9424e0ab5297f71", null ],
+    [ "init", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#aad0b48e776d807d62006b66c2f83e384", null ],
+    [ "run", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a64133c119ccaf24708ba45f96a32be9a", null ],
+    [ "setBranchAddress", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a6ac29f931245057f777c68943cd0e67f", null ],
+    [ "mConstLabels", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#ad6b7a3ff2f0fc5f23eef2c8b742fd78a", null ],
+    [ "mDetName", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#ade1afe1d54ac45e7063de624465cbfc4", null ],
+    [ "mDetNameLC", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a0c8cf710d558985a255cdba6ad395537", null ],
+    [ "mDigBranchName", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#ad8e7f93639640593079e2e7f404636cb", null ],
+    [ "mDigits", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#abca1febdf30b95ee085f9a45ff0aa901", null ],
+    [ "mDigMC2ROFs", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a559ed0f67826cedf25b8ac7413f7c364", null ],
+    [ "mDigMCTruthBranchName", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a4eb7ed557723aa7d10ac43ae33130039", null ],
+    [ "mDigROFBranchName", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#add9f4c9d1806dc270456229a75747560", null ],
+    [ "mDigROFRec", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a1fb8d6e8e74435f288d5ba87fc5abb66", null ],
+    [ "mDigTreeName", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#add3ac2468601f9bc13d6bfc722cf39a2", null ],
+    [ "mDoStaggering", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a1b39b08066b7dfa10cd9b4bf718ffc26", null ],
+    [ "mFile", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a040d82a10709405b7d6d5a9c1222fb3a", null ],
+    [ "mFileName", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a4fd2e330f6b2b7fa22662fd11f4e14a9", null ],
+    [ "mOrigin", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#af985e766ea851ed86803ab3ee1cdd477", null ],
+    [ "mPLabels", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a9f9883750f7d664d247805e30651b4c8", null ],
+    [ "mTree", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a5fbdb92ddd6ab681f8a3f2e92653e72c", null ],
+    [ "mUseCalib", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#ae7dfdebff0f3794b913ebab6e0fb5e2b", null ],
+    [ "mUseMC", "df/d7d/classo2_1_1its3_1_1ITS3DigitReader.html#a15983f7c998c1f42f218d29054d43ff6", null ]
+];

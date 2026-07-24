@@ -1,0 +1,4 @@
+var structo2_1_1framework_1_1enable__root__serialization_3_01T_00_01std_1_1enable__if__t_3_01has__ro00fb3f322b39d715d2369a90a867308e =
+[
+    [ "object_type", "db/d31/structo2_1_1framework_1_1enable__root__serialization_3_01T_00_01std_1_1enable__if__t_3_01has__ro00fb3f322b39d715d2369a90a867308e.html#aee1d361cb6c9ff56ea34e5ead4e35807", null ]
+];
