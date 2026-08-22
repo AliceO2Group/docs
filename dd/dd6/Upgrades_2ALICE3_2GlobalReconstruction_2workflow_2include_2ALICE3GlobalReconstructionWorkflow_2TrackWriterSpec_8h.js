@@ -1,0 +1,4 @@
+var Upgrades_2ALICE3_2GlobalReconstruction_2workflow_2include_2ALICE3GlobalReconstructionWorkflow_2TrackWriterSpec_8h =
+[
+    [ "getTrackWriterSpec", "dd/dd6/Upgrades_2ALICE3_2GlobalReconstruction_2workflow_2include_2ALICE3GlobalReconstructionWorkflow_2TrackWriterSpec_8h.html#a6ff972f3fdea036aa2e591964a4957e7", null ]
+];
