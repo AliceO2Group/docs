@@ -1,0 +1,25 @@
+var classo2_1_1math__utils_1_1Rotation2D =
+[
+    [ "value_t", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#aa9a959be806d8b325489131069004aa1", null ],
+    [ "Rotation2D", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#a790692b75f652abc963660aa8bf98fa8", null ],
+    [ "Rotation2D", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#ac557e665d20562996e9c6097c077b21f", null ],
+    [ "Rotation2D", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#a479ab8dabefac3cafceb56cbd949e83c", null ],
+    [ "~Rotation2D", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#a8f289f9f6fc7b3ad3dfb72b96ebf55e1", null ],
+    [ "Rotation2D", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#acc21defc37bccaa066adfdcd2701cf7f", null ],
+    [ "Rotation2D", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#af168ab9047abf6b167d1876e9ecd7f07", null ],
+    [ "getComponents", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#aacac5594b9b9fc0dd6c524394cd45126", null ],
+    [ "getCos", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#ad4487ae6165d1f5cf4057b88b6ccbeeb", null ],
+    [ "getSin", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#a75af853f767a232e57a249ee8f0e484f", null ],
+    [ "operator()", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#addd495f8c4ccbc6912ff2d2c4fff3c9d", null ],
+    [ "operator()", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#a9e5f3a0155f669dc7bd21878f8656f53", null ],
+    [ "operator()", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#aac2724309c44577e3df28b98f16ac52f", null ],
+    [ "operator()", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#af0464087c32e97f9dd1b86f8f412b15c", null ],
+    [ "operator=", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#a998e4429c19074e96c0b60489f5cf9da", null ],
+    [ "operator=", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#a9ae75b8ae4b45f07c5adb264aefbfa7f", null ],
+    [ "operator^", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#aaf2b1862a4aa12cabf12046341bc80da", null ],
+    [ "operator^", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#abbbe99cd1e6c40d451ddad1bc99f8647", null ],
+    [ "operator^", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#a4ae1502dfab1ac1cca9c87cfcfd6c4d3", null ],
+    [ "operator^", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#af8ff003546b142659c0e5e0c910903b6", null ],
+    [ "set", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#a69c77e2093619a89261d6a842fc1a4a9", null ],
+    [ "set", "d2/d82/classo2_1_1math__utils_1_1Rotation2D.html#ae7279c7b082fa6190037fb844222d100", null ]
+];
