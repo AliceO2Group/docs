@@ -1,0 +1,28 @@
+var classo2_1_1cad_1_1surface_1_1TorusBoundedSurface =
+[
+    [ "appendCoverBoxes", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a2d5a3a95f07d2502dca159bdb1f6ac2a", null ],
+    [ "appendDirectedEdges", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#ab1f250dc9edbb6fe8a2c65e37fdd92a0", null ],
+    [ "appendDisplayMesh", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a01a6ce6e8107ed459454dae4a4d4a97b", null ],
+    [ "appendIntersections", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a393eb8fbfd20d5c9b94e99f6cf42cad9", null ],
+    [ "capacityContribution", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a8dbc064414a3b0935fed3bd6a4b36e29", null ],
+    [ "capacityIsExact", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a667ad741f89cc98076319a2da03486e3", null ],
+    [ "conservativeBounds", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a58ce47da65e2b5a4c3c7468501942382", null ],
+    [ "containsPointOnSurface", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a04c720834fc042fb7eda0d673c628b71", null ],
+    [ "distanceSqToPatch", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a8bacef73f0f0466b09983e0d6277ea43", null ],
+    [ "fullRingSweep", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#af922a5f87ca2f367ebe5338e8d559eac", null ],
+    [ "fullTubeSweep", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a36f0ebeeca8c81d4cd28e8609f0705f1", null ],
+    [ "hasWireTrim", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a90002afd1129062d8c764a8bf931d992", null ],
+    [ "initialize", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a3890252f864e6239dba35e45f64ce5c9", null ],
+    [ "initialize", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a344a14547598f630828c0dae33854934", null ],
+    [ "localNormal", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a7041ea363e3d097a557a360ed6063752", null ],
+    [ "normalAt", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a734a70fd211d28bf5e188acea22f89fa", null ],
+    [ "parametricMetric", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#ace8c12024902750dae85dc864257fb04", null ],
+    [ "pointAt", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a1953a8b054b4ec01052073f2b76e4d57", null ],
+    [ "pointInTrim", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#ab39d266b577270ffe5f93f2be7cc4e58", null ],
+    [ "ringInSweep", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#afe975351a6c02449a9463dc67baf5175", null ],
+    [ "ringSegments", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a1629ada51a3266738bace9994e19f0f5", null ],
+    [ "sampleTrimCurve", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#aac268988a91d7596ed3ef66833900aa9", null ],
+    [ "toLocal", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a744406a0829b5e62865f716de87799fd", null ],
+    [ "tubeInSweep", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a1581026092038e9e130c30978582fd89", null ],
+    [ "tubeSegments", "d9/df3/classo2_1_1cad_1_1surface_1_1TorusBoundedSurface.html#a35e1fb0d90d0d98388f69b322a60e742", null ]
+];
