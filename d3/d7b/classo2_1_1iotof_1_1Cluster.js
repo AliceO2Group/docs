@@ -1,0 +1,28 @@
+var classo2_1_1iotof_1_1Cluster =
+[
+    [ "Cluster", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a4263a4bc675842132efb37619b8530e6", null ],
+    [ "Cluster", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a734eda54af9066766c28df5837ddfc60", null ],
+    [ "asString", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#ab842ed847a77f72d38f6a1191bc2f704", null ],
+    [ "getChipID", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#ab1ac2e2e5ba9d7d2f965fe52dcefd65f", null ],
+    [ "getCol", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#aa8d9e6f93a2029cb0e55a59532d80c4e", null ],
+    [ "getColSpan", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#aaedba2459aba9595f70d5b6845b09ff4", null ],
+    [ "getPackedData", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#aa3dbd5fd122bf9efbed04fe0d7f24814", null ],
+    [ "getPattern", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#ab1d9609b5f5f464ed87385cfb90569da", null ],
+    [ "getRow", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a5c0810cce00db81255701d4210d7b806", null ],
+    [ "getRowSpan", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a33f68e8b98d93a15820f718a56696eed", null ],
+    [ "getSensorID", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a385cac873416e5731ee5f6f4c3b7f0ec", null ],
+    [ "getSize", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a1bf4da565c454c307aea17f442527575", null ],
+    [ "getTime", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a5be88c6f8f3a9ba1598b8f8a049a1205", null ],
+    [ "getTopology", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#ac8a3a00ced6ee9e9d6934c830141c9d3", null ],
+    [ "operator==", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#ab24551e73e6dc6cd0a36e9b7d5f1d56d", null ],
+    [ "print", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#aede7a58c0aeee5c863da34c8ca1acf9a", null ],
+    [ "set", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#ae65f853688deacf904b09cdc79321cfc", null ],
+    [ "setChipID", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a03437562bca7862141924c41e591e7c8", null ],
+    [ "setCol", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a04e63f1f9d2f097fba379641b1184387", null ],
+    [ "setColSpan", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a3983eb1aae37afc115d580d7e21aaacd", null ],
+    [ "setPatternID", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#aca243c70da63ab0b5bd1094db913428f", null ],
+    [ "setRow", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a1e0c4b3cbbfbe8d44502d61a690d9811", null ],
+    [ "setRowSpan", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#af4fe22dcb051131a17a104f31b13c616", null ],
+    [ "setTime", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#ab04e1ea99ceb271ea592037cecb60afa", null ],
+    [ "setTopology", "d3/d7b/classo2_1_1iotof_1_1Cluster.html#a076b9d48866dbe83fcda4a3586cb9a08", null ]
+];
