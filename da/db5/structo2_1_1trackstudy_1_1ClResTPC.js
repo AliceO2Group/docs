@@ -1,0 +1,27 @@
+var structo2_1_1trackstudy_1_1ClResTPC =
+[
+    [ "ClassDefNV", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a466ebed6630bb4fed0ebfd665f51648c", null ],
+    [ "getDXMax", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a4e70b29bc31c39d44903f0318748744f", null ],
+    [ "getDXMin", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#adfd8cfde0c7e6e4107c6b4ab23730e79", null ],
+    [ "getDY", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a9c6b3510e492de139927993c8b344329", null ],
+    [ "getDZ", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#abcd8c2a01df0720a2a9630f664a7e0e1", null ],
+    [ "getEY", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a55b1c2055f6b230fce94bd54b974ad95", null ],
+    [ "getEZ", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a1f5aaee227dc62909c6caa2a9035eb0f", null ],
+    [ "getNCont", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#ab3f1579a1cad522571f4b687123a70e8", null ],
+    [ "getSigmaPad", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#ab2d178f7568fda7ff4110d0356efcd91", null ],
+    [ "getSigmaTime", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a1c3b3b2e8ec96cc5e57f37264fa42483", null ],
+    [ "getYRef", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#ad08dcd5cdede0e03cb8045e140d14e58", null ],
+    [ "getZRef", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a6f42b0165f28b54b4b567895f50c8058", null ],
+    [ "sortCont", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a0369081c61739d46e78f943195579529", null ],
+    [ "contTracks", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#ab69b5c5bc29f4223bca608325db2732b", null ],
+    [ "flags", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a45c6b7f77d39796ee084edc07c7aa42f", null ],
+    [ "ncont", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a7723453333a73f82eda97d2d18296ff6", null ],
+    [ "occ", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a088d8c4f14cdb6b839e81dda5a942413", null ],
+    [ "occBin", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#affd4b14171d924a83fb66b56446dcf7c", null ],
+    [ "qmax", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#abddb6a27e73728104c8341ecb26ff715", null ],
+    [ "qtot", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#af0dc4dae060d1d1cf3bd41e295f2bc2f", null ],
+    [ "row", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#ab3709dbda717ceb806d0a6c75e08eb9c", null ],
+    [ "sect", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a1fc89992d64941958ce650d99819e81d", null ],
+    [ "sigmaPadPacked", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a4ad62fe1f54550e28196a48eb601827e", null ],
+    [ "sigmaTimePacked", "da/db5/structo2_1_1trackstudy_1_1ClResTPC.html#a1878e1ebf0d9e1b567ea5ab23eb0b71d", null ]
+];

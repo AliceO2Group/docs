@@ -1,0 +1,35 @@
+var namespaceo2_1_1cad =
+[
+    [ "bench", "d3/d05/namespaceo2_1_1cad_1_1bench.html", "d3/d05/namespaceo2_1_1cad_1_1bench" ],
+    [ "harness", "d8/db5/namespaceo2_1_1cad_1_1harness.html", "d8/db5/namespaceo2_1_1cad_1_1harness" ],
+    [ "surface", "dc/d22/namespaceo2_1_1cad_1_1surface.html", "dc/d22/namespaceo2_1_1cad_1_1surface" ],
+    [ "xray", "d7/dd6/namespaceo2_1_1cad_1_1xray.html", "d7/dd6/namespaceo2_1_1cad_1_1xray" ],
+    [ "BVHSurfaceCurveRecord", "da/d6c/structo2_1_1cad_1_1BVHSurfaceCurveRecord.html", "da/d6c/structo2_1_1cad_1_1BVHSurfaceCurveRecord" ],
+    [ "BVHSurfaceRecord", "d7/d23/structo2_1_1cad_1_1BVHSurfaceRecord.html", "d7/d23/structo2_1_1cad_1_1BVHSurfaceRecord" ],
+    [ "FlatCSGBox", "d0/d37/structo2_1_1cad_1_1FlatCSGBox.html", "d0/d37/structo2_1_1cad_1_1FlatCSGBox" ],
+    [ "FlatCSGCell", "dc/dcd/structo2_1_1cad_1_1FlatCSGCell.html", "dc/dcd/structo2_1_1cad_1_1FlatCSGCell" ],
+    [ "FlatCSGHalfspace", "dc/dfd/structo2_1_1cad_1_1FlatCSGHalfspace.html", "dc/dfd/structo2_1_1cad_1_1FlatCSGHalfspace" ],
+    [ "O2BVHAssembly", "df/d79/classo2_1_1cad_1_1O2BVHAssembly.html", "df/d79/classo2_1_1cad_1_1O2BVHAssembly" ],
+    [ "O2BVHSurfaceSolid", "dc/d6b/classo2_1_1cad_1_1O2BVHSurfaceSolid.html", "dc/d6b/classo2_1_1cad_1_1O2BVHSurfaceSolid" ],
+    [ "O2FlatCSG", "d8/dab/classo2_1_1cad_1_1O2FlatCSG.html", "d8/dab/classo2_1_1cad_1_1O2FlatCSG" ],
+    [ "OverlapCensus", "dc/d77/structo2_1_1cad_1_1OverlapCensus.html", "dc/d77/structo2_1_1cad_1_1OverlapCensus" ],
+    [ "OverlapOptions", "d7/d97/structo2_1_1cad_1_1OverlapOptions.html", "d7/d97/structo2_1_1cad_1_1OverlapOptions" ],
+    [ "OverlapPair", "db/d6e/structo2_1_1cad_1_1OverlapPair.html", "db/d6e/structo2_1_1cad_1_1OverlapPair" ],
+    [ "OverlapSolidReport", "df/d2b/structo2_1_1cad_1_1OverlapSolidReport.html", "df/d2b/structo2_1_1cad_1_1OverlapSolidReport" ],
+    [ "OverlapVerdict", "d8/d4f/namespaceo2_1_1cad.html#a7cd140691fde11ec6e328fff2efcd922", [
+      [ "Disjoint", "d8/d4f/namespaceo2_1_1cad.html#a7cd140691fde11ec6e328fff2efcd922a283bfcf8a8bdcf8394b2b04307cc7896", null ],
+      [ "Touching", "d8/d4f/namespaceo2_1_1cad.html#a7cd140691fde11ec6e328fff2efcd922a5b32faae4c7bae1011dc7ab43caa1529", null ],
+      [ "Interpenetrating", "d8/d4f/namespaceo2_1_1cad.html#a7cd140691fde11ec6e328fff2efcd922a3bcedc8d21bf6f4c1263bc508c963d3b", null ],
+      [ "Contained", "d8/d4f/namespaceo2_1_1cad.html#a7cd140691fde11ec6e328fff2efcd922a09b0f4b749b4a7523156f43d7a93baa0", null ]
+    ] ],
+    [ "buildCADVolumeFromMacro", "d8/d4f/namespaceo2_1_1cad.html#a5f9713f37797ededf843569fdbade2b7", null ],
+    [ "CheckPairOverlap", "d8/d4f/namespaceo2_1_1cad.html#aac2ffd45c2a4875fae54ce599919949f", null ],
+    [ "CheckWorldOverlaps", "d8/d4f/namespaceo2_1_1cad.html#a1fa2fabb7e79a554cf92ea926872514e", null ],
+    [ "LoadFacetSolid", "d8/d4f/namespaceo2_1_1cad.html#a60a5988a6b223b954a51e3b11a743458", null ],
+    [ "LoadFlatCSG", "d8/d4f/namespaceo2_1_1cad.html#a366baf660153dafaf8d5c2b8d69589b2", null ],
+    [ "LoadSurfaceSolid", "d8/d4f/namespaceo2_1_1cad.html#aafb5638c15272f61ff8db2de7b274bb3", null ],
+    [ "OverlapVerdictName", "d8/d4f/namespaceo2_1_1cad.html#a3ea26bfbeb969a8a68939562fa24dfec", null ],
+    [ "remapCADMedia", "d8/d4f/namespaceo2_1_1cad.html#a7da06429aa955f0e2475ddc26bb06739", null ],
+    [ "SampleBoundaryPoints", "d8/d4f/namespaceo2_1_1cad.html#ac9c40ecda4d102d38e98ef4fc7f27d0b", null ],
+    [ "WriteFlatCSG", "d8/d4f/namespaceo2_1_1cad.html#aae2b9480efd845b238669447bce17d72", null ]
+];

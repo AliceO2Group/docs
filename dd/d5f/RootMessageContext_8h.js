@@ -1,0 +1,6 @@
+var RootMessageContext_8h =
+[
+    [ "o2::framework::RootSerializedObject< T >", "de/d17/classo2_1_1framework_1_1RootSerializedObject.html", "de/d17/classo2_1_1framework_1_1RootSerializedObject" ],
+    [ "o2::framework::enable_root_serialization< T, std::enable_if_t< has_root_dictionary< T >::value &&is_messageable< T >::value==false > >", "db/d31/structo2_1_1framework_1_1enable__root__serialization_3_01T_00_01std_1_1enable__if__t_3_01has__ro00fb3f322b39d715d2369a90a867308e.html", "db/d31/structo2_1_1framework_1_1enable__root__serialization_3_01T_00_01std_1_1enable__if__t_3_01has__ro00fb3f322b39d715d2369a90a867308e" ],
+    [ "o2::framework::root_serializer< T, std::enable_if_t< has_root_dictionary< T >::value||is_specialization< T, ROOTSerialized >::value==true > >", "dd/d3f/structo2_1_1framework_1_1root__serializer_3_01T_00_01std_1_1enable__if__t_3_01has__root__diction0842a105d27ec07641185ed245cff43a.html", "dd/d3f/structo2_1_1framework_1_1root__serializer_3_01T_00_01std_1_1enable__if__t_3_01has__root__diction0842a105d27ec07641185ed245cff43a" ]
+];

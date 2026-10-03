@@ -1,0 +1,28 @@
+var Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h =
+[
+    [ "o2::its::TrackingParameters", "d2/db0/structo2_1_1its_1_1TrackingParameters.html", "d2/db0/structo2_1_1its_1_1TrackingParameters" ],
+    [ "o2::its::VertexingParameters", "d2/de3/structo2_1_1its_1_1VertexingParameters.html", "d2/de3/structo2_1_1its_1_1VertexingParameters" ],
+    [ "IterationSteps", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a4133fd71b3c932082d9bb8a87076cf5b", null ],
+    [ "IterationStep", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a930856f5a5c08cde3e71ec8f1723d237", [
+      [ "FirstPass", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a930856f5a5c08cde3e71ec8f1723d237a95a9ac37d75aaac65eea1b5818262908", null ],
+      [ "RebuildClusterLUT", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a930856f5a5c08cde3e71ec8f1723d237a9f59525f5ae980ea75e4365ae119c4b0", null ],
+      [ "UseUPCMask", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a930856f5a5c08cde3e71ec8f1723d237a4937d77c3459e331d5a1266cb56b1491", null ],
+      [ "SelectUPCVertices", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a930856f5a5c08cde3e71ec8f1723d237ad2e6230b987e016b9cd0cac744f9a17a", null ],
+      [ "ResetVertices", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a930856f5a5c08cde3e71ec8f1723d237a854fcba00cd3b8f510eb9af1e7f64e27", null ],
+      [ "SkipROFsAboveThreshold", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a930856f5a5c08cde3e71ec8f1723d237a76dfb58044ef73dad31ab188674df4c6", null ],
+      [ "MarkVerticesAsUPC", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a930856f5a5c08cde3e71ec8f1723d237aaf34be129948fb80e81620dedf1b7495", null ],
+      [ "TrackFollowerTop", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a930856f5a5c08cde3e71ec8f1723d237ab3c51e02a10dd5a3e88c0f1081ac9380", null ],
+      [ "TrackFollowerBot", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a930856f5a5c08cde3e71ec8f1723d237a24b80ff783843dbc7750fd42ef12869e", null ]
+    ] ],
+    [ "Type", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a2ef82769468d686c859031a7271f7916", [
+      [ "Unset", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a2ef82769468d686c859031a7271f7916acec9a40d33a5074b33974a202600ac84", null ],
+      [ "Sync", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a2ef82769468d686c859031a7271f7916af148ae4851c25976927bc79a8afd53ad", null ],
+      [ "Async", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a2ef82769468d686c859031a7271f7916a1aed120a7a2c4566aa8fa717de39e07b", null ],
+      [ "Cosmics", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a2ef82769468d686c859031a7271f7916ae9e1390698d976f7aa00bb671adb65b1", null ],
+      [ "Off", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a2ef82769468d686c859031a7271f7916abbdf0491c7394a57ae17c540db0920dd", null ]
+    ] ],
+    [ "fromString", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a7e1b2d74baea99293458edb079f97a1f", null ],
+    [ "getTrackingParameters", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#aa1c34f949aebbdddf0fe0461c9538a79", null ],
+    [ "getVertexingParameters", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a78fbd1804cb5bee1ca939241d88f4e31", null ],
+    [ "toString", "dc/d9b/Detectors_2ITSMFT_2ITS_2tracking_2include_2ITStracking_2Configuration_8h.html#a9409abc6c19ebb1dbe26ff1a9039bb58", null ]
+];

@@ -1,0 +1,27 @@
+var classo2_1_1framework_1_1InputSpan =
+[
+    [ "Iterator", "d1/d05/classo2_1_1framework_1_1InputSpan_1_1Iterator.html", "d1/d05/classo2_1_1framework_1_1InputSpan_1_1Iterator" ],
+    [ "PartRange", "de/ddd/structo2_1_1framework_1_1InputSpan_1_1PartRange.html", "de/ddd/structo2_1_1framework_1_1InputSpan_1_1PartRange" ],
+    [ "const_iterator", "d6/d20/classo2_1_1framework_1_1InputSpan.html#abb910d3cef1f4d08e6594a9adfed5a4c", null ],
+    [ "iterator", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a5364d6798b4fcacd0b8272a14c0db43e", null ],
+    [ "InputSpan", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a4132a6fa8c94a44065e0951b9f7af45e", null ],
+    [ "InputSpan", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a0dc0b8821b35bb96ea48efd3a747e1ba", null ],
+    [ "InputSpan", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a5e61baa0fdad451b38a7238c58618684", null ],
+    [ "InputSpan", "d6/d20/classo2_1_1framework_1_1InputSpan.html#ac5474f5e0fab7f3e9541610092b373c9", null ],
+    [ "begin", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a0c8fa4a001258ef592a4fcc25a741ba1", null ],
+    [ "end", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a082a92db961b22d8aad07bda088aabd8", null ],
+    [ "endIndices", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a8efa349eaf26bfb848acd3e74b7bcdc7", null ],
+    [ "get", "d6/d20/classo2_1_1framework_1_1InputSpan.html#ae63289b7e1728626f26a381839049547", null ],
+    [ "getAtIndices", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a0240637b4622b1bc4b147ee322bda71a", null ],
+    [ "getAtIndices", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a1225de0390b0c92811b657ea660d1b26", null ],
+    [ "getNofParts", "d6/d20/classo2_1_1framework_1_1InputSpan.html#ae0e459c5917526ca3dfed2633689f6a1", null ],
+    [ "getPayloadAtIndices", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a2f09991453bee7d5f1220ac3b9e3ee07", null ],
+    [ "getRefCount", "d6/d20/classo2_1_1framework_1_1InputSpan.html#af9bc52856f0873055b135ef83bcf60de", null ],
+    [ "header", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a04bbba7949c6607a8656562022f2c48c", null ],
+    [ "initialIndices", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a0d442cee245d53c5f4e0f7c6286bf0df", null ],
+    [ "nextIndices", "d6/d20/classo2_1_1framework_1_1InputSpan.html#af3d5128913550f2685ac587dbe2f0404", null ],
+    [ "nextIndices", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a66e5dfcb1f9ddfd89af73c42ac2ef70a", null ],
+    [ "parts", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a0e0b5c39b0210c6ad4c12260e500484e", null ],
+    [ "payload", "d6/d20/classo2_1_1framework_1_1InputSpan.html#ae9f8298a9c358477f4a90c2f848bc50c", null ],
+    [ "size", "d6/d20/classo2_1_1framework_1_1InputSpan.html#a5d30369c26691c7ed8fe12d66068ff91", null ]
+];
