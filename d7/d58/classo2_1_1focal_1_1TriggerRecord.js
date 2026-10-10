@@ -1,0 +1,25 @@
+var classo2_1_1focal_1_1TriggerRecord =
+[
+    [ "TriggerRecord", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a61cd564e8c3202e5ab80776b5a4b29ec", null ],
+    [ "TriggerRecord", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#aa7800ebe69ab4ad07ee96e0a4d0770fd", null ],
+    [ "~TriggerRecord", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a13a184249c8b5842bfa82d3d05ae8a0b", null ],
+    [ "getBCData", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a0d8d71b41cd3f7a90de208dcce70d91e", null ],
+    [ "getBCData", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a01f446576dfb5f581185f75f233452c3", null ],
+    [ "getFirstPadEntry", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a04171f4a3f6eb52f2e4c3d4abad8a53b", null ],
+    [ "getFirstPixelChipEntry", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a185be955f61d31e74294b3a2ba9fa954", null ],
+    [ "getFirstPixelHitEntry", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a167167ee305e78f55afc73ad0f0691d6", null ],
+    [ "getNumberOfPadObjects", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a721a378d7865011b85b685327933e3ba", null ],
+    [ "getNumberOfPixelChipObjects", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a3acf01806b76e4f550b35fa5c0140ec5", null ],
+    [ "getNumberOfPixelHitObjects", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#ae5afbd04870f6ebcd9109309f936828f", null ],
+    [ "printStream", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a5f59f45784a04f18603a89b4896aff1b", null ],
+    [ "setBCData", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#ac5615df846154009da3b63b331999fee", null ],
+    [ "setIndexFirstPadObject", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a2fadf5f06546457b14446c2525e9edaf", null ],
+    [ "setIndexFirstPixelChipObject", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a99f1873af69374996b33fb41fe1357e8", null ],
+    [ "setIndexFirstPixelHitObject", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a018928e3147f9cfb4bb9125973144d64", null ],
+    [ "setNumberOfPadObjects", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a3752c97c075f2800edc6158fbc08df18", null ],
+    [ "setNumberOfPixelChipObjects", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#aaefc9eebc0a2f45baf99a86e24acb74f", null ],
+    [ "setNumberOfPixelHitObjects", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a264493dd81481c5f7ccf340d5d27bce4", null ],
+    [ "setPadDataRange", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#aeb4aa5afec60d6555a61db4681642288", null ],
+    [ "setPixelChipDataRange", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a022174641848ba41a81d15f0859cfb38", null ],
+    [ "setPixelHitDataRange", "d7/d58/classo2_1_1focal_1_1TriggerRecord.html#a9e782c778db41dfd8085231475c4820b", null ]
+];

@@ -1,0 +1,28 @@
+var classo2_1_1mch_1_1LocalTrackClusterResidual =
+[
+    [ "LocalTrackClusterResidual", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#add5e8c8513ffd6ff4d79f28df86cda0a", null ],
+    [ "~LocalTrackClusterResidual", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#aaad2616c3860469762d005f0f62075e8", null ],
+    [ "fBendingMomentum", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#aa22053094c911b61d9f562d219ca1584", null ],
+    [ "fBx", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a11cc75b009865112c7dea3ec09e6f2cc", null ],
+    [ "fBy", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a5757768decfeba08d7150369a135a502", null ],
+    [ "fBz", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a2e4cdb57ac0c6d4ea15f3f3cd264f398", null ],
+    [ "fCharge", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a5ced27f7ead0e1a5d31522e0ed1611df", null ],
+    [ "fClDetElem", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a0601d0773e9ee24af25f70d0f1bd92c8", null ],
+    [ "fClDetElemNumber", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a589e92d4c27fb4172f19690a2a6ddc62", null ],
+    [ "fClusterX", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a58d707c2807c8527eb614c5e70ec14b1", null ],
+    [ "fClusterXloc", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a1bfc6a93377e3c7de6accd355c3ba92b", null ],
+    [ "fClusterY", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a2a3275b736c48a273b87a71a085087b5", null ],
+    [ "fClusterYloc", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#af4b1f919b858f2858cb96e5570026c55", null ],
+    [ "fClusterZ", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a6f4af7276c84b700ce3cf323d824427a", null ],
+    [ "fResiduXGlobal", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a53250cc435191c1785ab93e767e772a7", null ],
+    [ "fResiduXLocal", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a7c879d51c917132e4c6734e3e86fa3a9", null ],
+    [ "fResiduYGlobal", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a2e559c8b2db1ecc265edb3c4835cce6b", null ],
+    [ "fResiduYLocal", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#afca67164313e0c04470ed9321d5dfcc0", null ],
+    [ "fTrackSlopeX", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a17634618b4a9b701d3d000302f05e2a4", null ],
+    [ "fTrackSlopeY", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a0964bcb8ebb18c00052ff4bbdc310b64", null ],
+    [ "fTrackX", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a711ee9ea575344e0be56ed8ab75f8586", null ],
+    [ "fTrackXloc", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a64c6742d69f3612b2b3d86f64f1aea8d", null ],
+    [ "fTrackY", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#ad5fdce6e08cbb2f9fd74296c13532e46", null ],
+    [ "fTrackYloc", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#a2529fa0df5d2c92d294c43d8819639f2", null ],
+    [ "fTrackZ", "df/d41/classo2_1_1mch_1_1LocalTrackClusterResidual.html#ace7ecd807c6dc9bc370d79f3aa508371", null ]
+];
