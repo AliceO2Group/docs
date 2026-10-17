@@ -1,0 +1,25 @@
+var MUON_2MID_2Simulation_2src_2Geometry_8cxx =
+[
+    [ "createChamber", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#aec6d222b4a3dba54f053924e991d3e7b", null ],
+    [ "createGeometry", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a9d17f3110276e2113767ea8e8867c162", null ],
+    [ "createHorizontalSupport", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a824c8e4044117c34ad89309dec88987f", null ],
+    [ "createRPC", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a61a15c32f3ab68fd8d37f08ebdab9933", null ],
+    [ "createVerticalSupport", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#acbc6e18d9c55c918aff76194342a0ead", null ],
+    [ "getSensitiveVolumes", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a2c9d4602bc37b15f5f0ea8a48567074c", null ],
+    [ "getTransformation", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a5931f947e66f893538b5b12be3987aa4", null ],
+    [ "kAluminiumHalfThickness", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a1c66cac52d5331a9377790ad61ce2f20", null ],
+    [ "kCopperHalfThickness", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#abbfe6756054488450cce40b8822b5843", null ],
+    [ "kElectrodHalfThickness", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#aa94092582a909d16341b1e26e1a1808d", null ],
+    [ "kGasHalfThickness", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#ace9d395457b377ef1c0808461ce33f17", null ],
+    [ "kHorizontalSupportHalfExtDim", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a0bf929b54bd69e38fb0b54f2a225ca8f", null ],
+    [ "kHorizontalSupportHalfIntDim", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a19f3b630032f1d4462098072f77ba9ca", null ],
+    [ "kHorizontalSupportPos", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a16076978d63ffb6d6b652e3c4dd942fa", null ],
+    [ "kInsulatorHalfThickness", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#afd73c2585abdd10836b41666932d80bf", null ],
+    [ "kMylarHalfThickness", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a523d0014ed6e8b89a71e294e0d38aeb8", null ],
+    [ "kNomexHalfThickness", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#acb1e1e081dcc3ab775c08e68c37d2aba", null ],
+    [ "kSpacerHalfThickness", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a5f21b3d2b39b369abcbb0b4ada24e64a", null ],
+    [ "kStyrofoamHalfThickness", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#ab7e5708cf954c965744e2910aa37764c", null ],
+    [ "kVerticalSupportHalfExtDim", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a5b172d4c80e3bcd10a38775157a34b49", null ],
+    [ "kVerticalSupportHalfIntDim", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#a4bbf93b38d67997b4a4cdead43864c00", null ],
+    [ "kVerticalSupportXPos", "d7/de7/MUON_2MID_2Simulation_2src_2Geometry_8cxx.html#ab901df8332eab12fe63ddb6600c15d4c", null ]
+];

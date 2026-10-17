@@ -1,0 +1,25 @@
+var structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo =
+[
+    [ "ClassDefNV", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a332036cf4633d00d0f9d674744aa68e5", null ],
+    [ "getY0", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#ae0bde6dfcc7a9637193a7aee19a0e9cb", null ],
+    [ "getYscale", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#aa9095be4628c1b06ffff561a1adcf66e", null ],
+    [ "getZ0", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#aafcf87c69f0663edf4ddbd9147195fc7", null ],
+    [ "getZscale", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#ae0f099062029fdce2a56ecd535e5e917", null ],
+    [ "GPUdi", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a7d65b5d0306617d90bd9f9b5641bc2e0", null ],
+    [ "GPUdi", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#ad74fe22ae333fb2b6a20f82d2fc6464b", null ],
+    [ "GPUdi", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a896f95d195be997c651e79df7a49e582", null ],
+    [ "if", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a44427a767fe8f9d354bab2340c2edb58", null ],
+    [ "set", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a500be4ec8b770cbcff070637105cb7e9", null ],
+    [ "const", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a3848524c3489a5bf3283dcc5181765d3", null ],
+    [ "const", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a4c04bbbdf5e185fd32933c94fb79613c", null ],
+    [ "gridU", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a4dce3b39f0b0296ceeacb806f4c51a00", null ],
+    [ "gridV", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a3381d473f5904b1b8a42a8aacad17f4c", null ],
+    [ "s", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a53a57833cfec80832c2be7a9a0616128", null ],
+    [ "u", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#aca36a623dde4bee1101a36e1f2c8f476", null ],
+    [ "v", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a6f36c94cc12bbf411b543311d113cb78", null ],
+    [ "v", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#ac48107a46f41ea6d552868539e2c58e0", null ],
+    [ "y", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a1d318b810dd4b2395c289bafa48dcf5b", null ],
+    [ "y", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#a287bdd2067e523ed80d48ca6a8170369", null ],
+    [ "z", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#ab09c482de67ba4cae996fda32f176522", null ],
+    [ "z", "d8/d72/structo2_1_1gpu_1_1TPCFastSpaceChargeCorrection_1_1GridInfo.html#afdb0327a5625c58a00b6e0ff35a59def", null ]
+];
