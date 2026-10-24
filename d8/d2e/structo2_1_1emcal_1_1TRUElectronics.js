@@ -1,0 +1,25 @@
+var structo2_1_1emcal_1_1TRUElectronics =
+[
+    [ "TRUElectronics", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#ae3e40c127908405e5cec58c734719cd1", null ],
+    [ "TRUElectronics", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#a4d95c5191ebc3cdca57da1b1256a9926", null ],
+    [ "~TRUElectronics", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#ae5269dcee6871dfcb430e515d3bcfc10", null ],
+    [ "assignModulesToAllPatches", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#aad9a1811ed53835f68e2078c69b67c04", null ],
+    [ "assignSeedModuleToAllPatches", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#a9c62ad76003d0e13af7d85fd3f988cf5", null ],
+    [ "assignSeedModuleToPatchWithSTUIndexingFullModule", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#a3542a280f29556058d890a982d0c8b7b", null ],
+    [ "assignSeedModuleToPatchWithSTUIndexingOneThirdModule", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#af17d3c1ff925499a936a0d135a85d4dd", null ],
+    [ "ClassDefNV", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#a9d875453955e2c5be09c71200a0fe1f1", null ],
+    [ "clear", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#aca956c85548a51b50a11960c054d8d4e", null ],
+    [ "init", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#a562c949eee32c78e03c74805811d6016", null ],
+    [ "updateADC", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#a8e6ce946b6881b134ed1d858b7048ea5", null ],
+    [ "mADCvalues", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#ae4bfe5201c47d53599701e41f6d3f748", null ],
+    [ "mFastOrs", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#aa90049e0d4322233cb3666a1df6decfa", null ],
+    [ "mFiredFastOrIndexMapPatch", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#a341eb59721aa51faf868f8288c51371d", null ],
+    [ "mFiredPatches", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#a9d74fca765d7c0a1f20c1eb2ecdc9dc5", null ],
+    [ "mIndexMapPatch", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#ab019c99b4a047482dcec4c79430886d8", null ],
+    [ "mPatchIDSeedFastOrIDs", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#ac936cfeabd6f19b351a2392f7fbef6db", null ],
+    [ "mPatchSize", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#a21e68045617ccc3ea9b7ac8c18a43390", null ],
+    [ "mPreviousTimebinADCvalue", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#ae92bf6c87e019e7657e93a2695ae9a49", null ],
+    [ "mTimesum", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#a27d3d5bc0e4cb068d3f62b45a2f115f8", null ],
+    [ "mWhichSide", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#af0fb1b80274d1975fdd74585e76e187d", null ],
+    [ "mWhichSuperModuleSize", "d8/d2e/structo2_1_1emcal_1_1TRUElectronics.html#a406eb1dc6692f8380467e5d16ba29140", null ]
+];
