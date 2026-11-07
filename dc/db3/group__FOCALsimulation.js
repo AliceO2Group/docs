@@ -1,0 +1,55 @@
+var group__FOCALsimulation =
+[
+    [ "o2::focal::Parent", "db/d89/structo2_1_1focal_1_1Parent.html", [
+      [ "mEnergy", "db/d89/structo2_1_1focal_1_1Parent.html#a4ecb23eeee316e2965fe368b887a0be9", null ],
+      [ "mHasTrackReference", "db/d89/structo2_1_1focal_1_1Parent.html#a8f6c531eaebbd14c1e4b90def65eda8c", null ],
+      [ "mPDG", "db/d89/structo2_1_1focal_1_1Parent.html#ab44db2853cf205d9cfc1b015efd396e6", null ]
+    ] ],
+    [ "o2::focal::Detector", "dc/da4/classo2_1_1focal_1_1Detector.html", [
+      [ "MediumType_t", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0", [
+        [ "ID_TUNGSTEN", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0a53de80a9eabf626f924cb5e5464de86f", null ],
+        [ "ID_SIPAD", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0a96aee33e2e7b54f3a1a51bd20ada0205", null ],
+        [ "ID_SIPIX", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0a32d79c6dbe57ff51bd7181cf84f2150b", null ],
+        [ "ID_G10", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0a47ffc1809f53a853299b4ea0f3e3ebb1", null ],
+        [ "ID_COPPER", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0ad02f811feba9294f84f99af05b39380d", null ],
+        [ "ID_STEEL", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0a5a32670b7207c6989c05e3f45a0f67e7", null ],
+        [ "ID_ALLOY", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0a6562eed620e54ff55960d23952039e6e", null ],
+        [ "ID_CERAMIC", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0aa4044bec918b93be214f0119763bc6d9", null ],
+        [ "ID_PB", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0abbdbfc00fc3abfb6a4bbc3a2d384926b", null ],
+        [ "ID_SC", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0a16519fa9fcc7f4d9c32019b94d56a008", null ],
+        [ "ID_SIINSENS", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0a7b2ae1770e3bff7d7d608d671858e008", null ],
+        [ "ID_ALUMINIUM", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0a9e261a6e10782ebfbf0f1c38d23a4780", null ],
+        [ "ID_VAC", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0aca1efaa5a7efbbcbcd4bd119b865f91b", null ],
+        [ "ID_AIR", "dc/da4/classo2_1_1focal_1_1Detector.html#a31fe6a137bd750ec24546f71057873d0a7598a38cdd4f06e82b6cd900358d1828", null ]
+      ] ],
+      [ "Detector", "dc/da4/classo2_1_1focal_1_1Detector.html#ac76a559f86f6c1027aca37b65b343215", null ],
+      [ "Detector", "dc/da4/classo2_1_1focal_1_1Detector.html#a931bac9b0314cf53b9da92533a7987b4", null ],
+      [ "~Detector", "dc/da4/classo2_1_1focal_1_1Detector.html#a2405fdd7fef79a727a5f48982ffb146b", null ],
+      [ "addAlignableVolumes", "dc/da4/classo2_1_1focal_1_1Detector.html#a9d6d27b534634cc4365dd1897eaaaae3", null ],
+      [ "addAlignableVolumesECAL", "dc/da4/classo2_1_1focal_1_1Detector.html#a959662386f824aa08acae00368391a87", null ],
+      [ "addAlignableVolumesHCAL", "dc/da4/classo2_1_1focal_1_1Detector.html#a198bbeef14418e7ce1d43f4b69b85dac", null ],
+      [ "AddHit", "dc/da4/classo2_1_1focal_1_1Detector.html#a85edc8b9ffd5bd27e635e616d2e05c87", null ],
+      [ "AddSuperparent", "dc/da4/classo2_1_1focal_1_1Detector.html#ac93460e48c02235def8ee53b6ef5d580", null ],
+      [ "BeginPrimary", "dc/da4/classo2_1_1focal_1_1Detector.html#abe1c214a9c8909464388bce64173da74", null ],
+      [ "ConstructGeometry", "dc/da4/classo2_1_1focal_1_1Detector.html#a929268618a46c57137741a179fc3113d", null ],
+      [ "CreateECALGeometry", "dc/da4/classo2_1_1focal_1_1Detector.html#ac50275c8db57686c0582c90a37182c6a", null ],
+      [ "CreateHCALSandwich", "dc/da4/classo2_1_1focal_1_1Detector.html#a6a34c63a286ee8c5984b85474a36890b", null ],
+      [ "CreateHCALSheets", "dc/da4/classo2_1_1focal_1_1Detector.html#a7e7be71dff54031a541c97d4eb402499", null ],
+      [ "CreateHCALSpaghetti", "dc/da4/classo2_1_1focal_1_1Detector.html#a8cd8cb74c587bb18dfa9bec9dd2d4362", null ],
+      [ "CreateMaterials", "dc/da4/classo2_1_1focal_1_1Detector.html#aa3d9200689ccd9c9ecca685bea037293", null ],
+      [ "CreatePitchAssembly", "dc/da4/classo2_1_1focal_1_1Detector.html#a13cf144bdc1d693095dc9e4ef375db77", null ],
+      [ "EndOfEvent", "dc/da4/classo2_1_1focal_1_1Detector.html#aafcf60fdfd4698fc0c2058446cd2d8a1", null ],
+      [ "FindHit", "dc/da4/classo2_1_1focal_1_1Detector.html#aae10a934dadc34535633edb5f58dc5e5", null ],
+      [ "FinishPrimary", "dc/da4/classo2_1_1focal_1_1Detector.html#a860806059f6532b4a9ded28b2e6c49be", null ],
+      [ "getGeometry", "dc/da4/classo2_1_1focal_1_1Detector.html#ad969dd288496d1adb48e04c61db9b09c", null ],
+      [ "getHits", "dc/da4/classo2_1_1focal_1_1Detector.html#a54f1835e1c9663ed751805d5344136b6", null ],
+      [ "InitializeO2Detector", "dc/da4/classo2_1_1focal_1_1Detector.html#a32f80be92fd7f6724bb794710469b7c3", null ],
+      [ "ProcessHits", "dc/da4/classo2_1_1focal_1_1Detector.html#aaf6abc073195a984a4e2cec1fb128faf", null ],
+      [ "ProcessHitsEPad", "dc/da4/classo2_1_1focal_1_1Detector.html#a11395ca65d3202c03f5b4b9b23965da5", null ],
+      [ "ProcessHitsEPix", "dc/da4/classo2_1_1focal_1_1Detector.html#a9778d53bf6583b1e24e8d65ed4bab26a", null ],
+      [ "ProcessHitsHCAL", "dc/da4/classo2_1_1focal_1_1Detector.html#a3884c0f39662666a33fa1eff59cc6565", null ],
+      [ "Register", "dc/da4/classo2_1_1focal_1_1Detector.html#a7a20c3effc84d8ab7b9018168690348c", null ],
+      [ "Reset", "dc/da4/classo2_1_1focal_1_1Detector.html#ad2cf464593a0c497a98222abdb12684d", null ],
+      [ "o2::base::DetImpl", "dc/da4/classo2_1_1focal_1_1Detector.html#aeda61a10c7ef352656f6584cb230d97a", null ]
+    ] ]
+];

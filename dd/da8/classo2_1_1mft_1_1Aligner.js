@@ -1,0 +1,25 @@
+var classo2_1_1mft_1_1Aligner =
+[
+    [ "Aligner", "dd/da8/classo2_1_1mft_1_1Aligner.html#a2e6a2a017823bcbf932a3add9638a940", null ],
+    [ "~Aligner", "dd/da8/classo2_1_1mft_1_1Aligner.html#a167d390c07d95fb8f805f88107c90777", null ],
+    [ "ClassDef", "dd/da8/classo2_1_1mft_1_1Aligner.html#a177f3dd3a9b7acb2fbbdb1e92a901507", null ],
+    [ "getNDofPerSensor", "dd/da8/classo2_1_1mft_1_1Aligner.html#aca8c5820cec0bbfc005da145d9f5803b", null ],
+    [ "init", "dd/da8/classo2_1_1mft_1_1Aligner.html#ab414e118c820e469f9f75bfb423ea7bb", null ],
+    [ "setAllowedVariationDeltaRz", "dd/da8/classo2_1_1mft_1_1Aligner.html#ad50e3c7a8248510ccbc2fe50a456c48c", null ],
+    [ "setAllowedVariationDeltaX", "dd/da8/classo2_1_1mft_1_1Aligner.html#a19db7be61b6ab7236e5351c5bc878524", null ],
+    [ "setAllowedVariationDeltaY", "dd/da8/classo2_1_1mft_1_1Aligner.html#a354608c5a3f79164bf17c3d94d88c308", null ],
+    [ "setAllowedVariationDeltaZ", "dd/da8/classo2_1_1mft_1_1Aligner.html#ad37a2a65813bb19e9347cf0a1311d947", null ],
+    [ "setChi2CutFactor", "dd/da8/classo2_1_1mft_1_1Aligner.html#a0d748d7d5bb5666994536b258e96600e", null ],
+    [ "setChi2CutNStdDev", "dd/da8/classo2_1_1mft_1_1Aligner.html#a214eb0615de93c392ae6719306f7e6d0", null ],
+    [ "setResidualCut", "dd/da8/classo2_1_1mft_1_1Aligner.html#a4d16daa3dfb6c1783f78d07d9dda8943", null ],
+    [ "setResidualCutInitial", "dd/da8/classo2_1_1mft_1_1Aligner.html#a9d957fa9d0de2a5793dfaba512f78482", null ],
+    [ "mAllowVar", "dd/da8/classo2_1_1mft_1_1Aligner.html#adf6cceccd73b991ab9dea14a3ab9227b", null ],
+    [ "mChi2CutNStdDev", "dd/da8/classo2_1_1mft_1_1Aligner.html#afd0f287844a6270f850b8aad00a70429", null ],
+    [ "mGlobalParameterStatus", "dd/da8/classo2_1_1mft_1_1Aligner.html#a441986db4478ebe001e1f40bef8e752a", null ],
+    [ "mIsInitDone", "dd/da8/classo2_1_1mft_1_1Aligner.html#a94d9e634dddff63b28c5f2fe9f1197f1", null ],
+    [ "mMilleConstraintsRecFileName", "dd/da8/classo2_1_1mft_1_1Aligner.html#a76340363158f2036b7174d785eb96bbe", null ],
+    [ "mMilleRecordsFileName", "dd/da8/classo2_1_1mft_1_1Aligner.html#a0d8fc300fee4a8ffc32fb74c34c1b7d0", null ],
+    [ "mResCut", "dd/da8/classo2_1_1mft_1_1Aligner.html#a915992ac8f7b1a3b04f70dbed267a882", null ],
+    [ "mResCutInitial", "dd/da8/classo2_1_1mft_1_1Aligner.html#a28191cb9d709b0069c8f362ad915e34d", null ],
+    [ "mStartFac", "dd/da8/classo2_1_1mft_1_1Aligner.html#a9f51d63243324c3994488a2169a0b069", null ]
+];
