@@ -1,0 +1,35 @@
+var structo2_1_1gpu_1_1GPUDisplayGUIChannel =
+[
+    [ "Element", "d8/d73/structo2_1_1gpu_1_1GPUDisplayGUIChannel_1_1Element.html", "d8/d73/structo2_1_1gpu_1_1GPUDisplayGUIChannel_1_1Element" ],
+    [ "Frame", "d9/d39/structo2_1_1gpu_1_1GPUDisplayGUIChannel_1_1Frame.html", "d9/d39/structo2_1_1gpu_1_1GPUDisplayGUIChannel_1_1Frame" ],
+    [ "Options", "d7/d7f/structo2_1_1gpu_1_1GPUDisplayGUIChannel_1_1Options.html", "d7/d7f/structo2_1_1gpu_1_1GPUDisplayGUIChannel_1_1Options" ],
+    [ "Settings", "db/dae/structo2_1_1gpu_1_1GPUDisplayGUIChannel_1_1Settings.html", "db/dae/structo2_1_1gpu_1_1GPUDisplayGUIChannel_1_1Settings" ],
+    [ "State", "dd/d68/structo2_1_1gpu_1_1GPUDisplayGUIChannel_1_1State.html", "dd/d68/structo2_1_1gpu_1_1GPUDisplayGUIChannel_1_1State" ],
+    [ "Update", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#ab0421f898c53d34de2886644453c7fc1", null ],
+    [ "ElementType", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a293b92b39ca818c799285c87fdaff87a", [
+      [ "CHECKBOX", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a293b92b39ca818c799285c87fdaff87aa22ab9eebdf3d8e32268c02e577520333", null ],
+      [ "TEXTBOX", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a293b92b39ca818c799285c87fdaff87aa90bb771088edc79816de4252154f5037", null ],
+      [ "SLIDER", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a293b92b39ca818c799285c87fdaff87aa3c93f85078b290625b7c4db299979c4f", null ],
+      [ "RADIO_BUTTONS", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a293b92b39ca818c799285c87fdaff87aaf36a3f97c95d2a1fdc17b250bf386509", null ],
+      [ "DROPDOWN", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a293b92b39ca818c799285c87fdaff87aa11104907ea3583e29b65b1bceb239a02", null ],
+      [ "BUTTON", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a293b92b39ca818c799285c87fdaff87aa57b35198356d373bcd2a6e08abcb3795", null ],
+      [ "TEXTEDIT", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a293b92b39ca818c799285c87fdaff87aabc2f9a8cc557373aafe10c98eb3a4f6b", null ],
+      [ "MULTI_SLIDER", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a293b92b39ca818c799285c87fdaff87aadb95f8672bcdc294035501249a4e5992", null ]
+    ] ],
+    [ "displayProcessingCurrentUpdate", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a5549905a5e8f976c85e36e7802a30c4b", null ],
+    [ "displayWaitingForOptions", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a9e75fff24d889a241a5c8f6e275ad795", null ],
+    [ "guiSleeping", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#af73e102ea1b8fb974f796bc1b7f7d03b", null ],
+    [ "infoTextTime", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a42176dbce0b88b6cf8f013ec5a607555", null ],
+    [ "layout", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#ad15fca0b9047741ee2cd904efb734939", null ],
+    [ "maxUpdatesAhead", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#adbe101caad5349b658f262f842c8b4f9", null ],
+    [ "mutex", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a1f9ea1a8981a12339ee57c4273c37fd0", null ],
+    [ "optionsRead", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#ae343e5f884b3bd00b1ad329c859519c9", null ],
+    [ "optionsReadRevision", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#aa2c6a69764d2078c954b63e39e6acfa4", null ],
+    [ "replyTimeout", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a3b69f02b1970e60e5ebc30b8d13a7221", null ],
+    [ "state", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#adecad0f4ae2c9891c69042b2cd613e44", null ],
+    [ "stateUpdated", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a9f2ce3ee89f1286bf9305f429c67a2a3", null ],
+    [ "stop", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#ab835fe113a43a5ac7b6965859279fe1a", null ],
+    [ "update", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#ac6d9954c76f6611400f62a5d3df5443b", null ],
+    [ "updatePosted", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#a20f463bc07895f0ec3514be2972e35bc", null ],
+    [ "windowName", "d0/dc8/structo2_1_1gpu_1_1GPUDisplayGUIChannel.html#ab3f8110aecaf5f53c086075daccc0118", null ]
+];
